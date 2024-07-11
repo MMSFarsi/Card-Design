@@ -47,15 +47,29 @@ img{
 .rev{
     padding-left: 15px;
 }
+.fee{
+    font-size: 13px;
+    font-weight: 800;
+    
+}
 
 button{
-    padding: 10px;
-    border: none;
-    border-radius: 4px;
+    padding: 13px;
+    border: 1px solid #d45a03;
+    border-radius: 8px;
+    margin-left: 20px;
+    background-color: white;
 }
+button:hover {
+    background-color:#e70983e0;
+    border: none;
+    
+}
+
 a{
     text-decoration: none;
-    color: ;
+    color: black ;
+    font-weight: 600;
 }
 
 .allcourse{
